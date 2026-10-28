@@ -1,0 +1,15 @@
+.env
+__pycache__
+chroma.log
+agent_workspace
+swarms.log
+errors
+pdfs
+chroma.log
+/data
+CUAD_v1
+temp
+collection_names.json
+cuad_q1300to1800.csv
+results.csv
+*.csv
